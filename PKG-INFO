@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: netbluemind
+Version: 3.1.25071
+Summary: Automatically generated client for BlueMind REST API
+Home-page: http://git.blue-mind.net/gitlist/bluemind/
+Author: BlueMind team
+Author-email: contact@bluemind.net
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: bluemind,rest,api,mail,groupware
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2.7
